@@ -1,29 +1,29 @@
-# DATA SCIENCE INTERNSHIP - TASK 5
+# Data Science Task5 Solution
 
-##  Task: Logistic Regression
+## Files Included
+- Task5_Documentation.docx
+- dataset.csv
+- task5_solution.ipynb
 
-##  Objective
-To perform binary classification using Logistic Regression.
+## Objective
+Complete the assigned data science task with proper preprocessing, model building, evaluation, and documentation.
 
-##  Tools Used
+## Tools Used
 - Python
-- Scikit-learn
 - Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
 
-##  Dataset
-Breast Cancer Dataset
+## Workflow
+1. Load dataset
+2. Clean and preprocess data
+3. Perform train-test split
+4. Train machine learning model
+5. Evaluate performance
+6. Document results
 
-##  Steps Performed
-1. Loaded dataset
-2. Converted into CSV file
-3. Split data into training and testing
-4. Trained Logistic Regression model
-5. Predicted results
-6. Evaluated using accuracy and classification report
-
-##  Result
-Achieved accuracy of around 96%
-
-##  Files Included
-- task5.ipynb
-- breast_cancer_data.csv
+## Outcome
+The task was completed successfully with proper evaluation and final observations.
+<img width="1919" height="1021" alt="task5" src="https://github.com/user-attachments/assets/7fd3f305-fcf7-4e5b-9e18-3cb0026bcd41" />
