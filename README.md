@@ -27,3 +27,6 @@ Complete the assigned data science task with proper preprocessing, model buildin
 
 ## Outcome
 The task was completed successfully with proper evaluation and final observations.
+
+<img width="1919" height="1021" alt="task5" src="https://github.com/user-attachments/assets/b93a9e89-3364-4b01-8a20-705cd1852294" />
+
